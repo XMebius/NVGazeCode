@@ -1,0 +1,1 @@
+python runTraining_sample.py -c sample_pupil_synthetic.py -e exp_sample_pupilcenter -m local
